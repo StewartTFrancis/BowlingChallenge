@@ -1,0 +1,12 @@
+C:\Users\Stewa\source\repos\bowlingChallenge\BowlingChallengeLib\bin\Debug\net5.0\BowlingChallengeLib.deps.json
+C:\Users\Stewa\source\repos\bowlingChallenge\BowlingChallengeLib\bin\Debug\net5.0\BowlingChallengeLib.dll
+C:\Users\Stewa\source\repos\bowlingChallenge\BowlingChallengeLib\bin\Debug\net5.0\ref\BowlingChallengeLib.dll
+C:\Users\Stewa\source\repos\bowlingChallenge\BowlingChallengeLib\bin\Debug\net5.0\BowlingChallengeLib.pdb
+C:\Users\Stewa\source\repos\bowlingChallenge\BowlingChallengeLib\obj\Debug\net5.0\BowlingChallengeLib.csprojAssemblyReference.cache
+C:\Users\Stewa\source\repos\bowlingChallenge\BowlingChallengeLib\obj\Debug\net5.0\BowlingChallengeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stewa\source\repos\bowlingChallenge\BowlingChallengeLib\obj\Debug\net5.0\BowlingChallengeLib.AssemblyInfoInputs.cache
+C:\Users\Stewa\source\repos\bowlingChallenge\BowlingChallengeLib\obj\Debug\net5.0\BowlingChallengeLib.AssemblyInfo.cs
+C:\Users\Stewa\source\repos\bowlingChallenge\BowlingChallengeLib\obj\Debug\net5.0\BowlingChallengeLib.csproj.CoreCompileInputs.cache
+C:\Users\Stewa\source\repos\bowlingChallenge\BowlingChallengeLib\obj\Debug\net5.0\BowlingChallengeLib.dll
+C:\Users\Stewa\source\repos\bowlingChallenge\BowlingChallengeLib\obj\Debug\net5.0\ref\BowlingChallengeLib.dll
+C:\Users\Stewa\source\repos\bowlingChallenge\BowlingChallengeLib\obj\Debug\net5.0\BowlingChallengeLib.pdb
